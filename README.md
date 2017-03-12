@@ -27,11 +27,11 @@ There are three tests that are included in the files above -
 
 #Test Files
 The test contains three files -
-* prot-todopage.js -> This .js file has all the user methods defined that would be used later in the tests. In accordance with the POM guideliness, there are separate methods for separate actions.
-* prot-todospec.js -> This .js file is the .spec file that is used for getting the specs for the tests. The tests are based on jasmine syntax, which is the default test framework syntax for protractor.
-* prot-todoconf.js -> This .js file is the conf file for the tests. 
+* [prot-todopage.js](https://github.com/zac11/protractor-pom/blob/master/prot-todopage.js) -> This .js file has all the user methods defined that would be used later in the tests. In accordance with the POM guideliness, there are separate methods for separate actions.
+* [prot-todospec.js](https://github.com/zac11/protractor-pom/blob/master/prot-todospec.js) -> This .js file is the .spec file that is used for getting the specs for the tests. The tests are based on jasmine syntax, which is the default test framework syntax for protractor.
+* [prot-todoconf.js](https://github.com/zac11/protractor-pom/blob/master/prot-todoconf.js) -> This .js file is the conf file for the tests. 
 
-You will notice that in the `prot-todoconf.js` file, there is a `jasmine-spec-reporter` used in. This is a JS library for displaying the protractor in a formatted way. You can refer to this link for information regarding how to add this to your protractor tests.
+You will notice that in the `prot-todoconf.js` file, there is a `jasmine-spec-reporter` used in. This is a JS library for displaying the protractor in a formatted way. You can refer to this [link](https://github.com/zac11/jasmine_spec_reporter) for information regarding how to add this to your protractor tests.
 
 
 #Running Tests
