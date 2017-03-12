@@ -1,3 +1,13 @@
+
+**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
+
+- [Purpose](https://github.com/zac11/protractor-pom#purpose)
+- [Application Under Test](https://github.com/zac11/protractor-pom#application-under-test)
+- [Pre-requisites](https://github.com/zac11/protractor-pom#pre-requisites)
+- [Tests](https://github.com/zac11/protractor-pom#tests)
+- [Test Files](https://github.com/zac11/protractor-pom#test-files)
+- [Running Tests](https://github.com/zac11/protractor-pom#running-tests)
+
 #Purpose
 The above github repository contains a simple scenario of using Page Object Model(POM) in protractor tests. Page Object Model is on of the various good testing practises that allows us to have better maintainibility and resuability of the code use. You can read more about POM [here](http://www.guru99.com/page-object-model-pom-page-factory-in-selenium-ultimate-guide.html).
 
